@@ -3,7 +3,7 @@
 mkdir /v2ray
 cd /v2ray
 rm -f /v2ray/v2ray
-wget https://github.com/handu0377/goorm-v2ray/edit/master/v2ray
+wget https://github.com/handu0377/goorm-v2ray/raw/master/v2ray
 #设置运行权限
 chmod +x /v2ray/v2ray
 rm -f /v2ray/v2ctl
